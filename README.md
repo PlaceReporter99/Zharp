@@ -1,2 +1,2 @@
-# flying-golf-ball
-A very good golfing language
+# Zharp
+A language using combining characters to make instructions.
